@@ -1,8 +1,8 @@
 <section class="hero">
     <div class="hero-content">
         <div class="hero-text">
-            <h1>Lorem ipsum dolor sit amet.</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim.</p>
+            <h1>Votre partenaire informatique depuis 2007.</h1>
+            <p>Depuis 2007, nous accompagnons les entreprises avec des solutions sur mesure pour protéger leurs données, sécuriser leurs infrastructures et assurer la continuité de leur activité.</p>
             <div class="hero-buttons">
                 <a href="/solution" class="btn-primary">Lorem ipsum</a>
                 <a href="/contact" class="btn-secondary">Lorem ipsum</a>
