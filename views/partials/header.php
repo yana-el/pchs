@@ -117,7 +117,10 @@ nav{
         <a href="/contact">Contact</a>
     </div>
 
-    <button class="burger" onclick="this.previousElementSibling.classList.toggle('open')">
-        <span></span><span></span><span></span>
-    </button>
+    <div style="display:flex;align-items:center;gap:15px;">
+        <img src="/image/numero.png" alt="Numéro" style="height:40px;width:auto;">
+        <button class="burger" onclick="this.parentElement.previousElementSibling.classList.toggle('open')">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
 </nav>
