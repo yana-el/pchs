@@ -97,6 +97,9 @@ nav{
         display:flex;
     }
 }
+.links a.active {
+    color: black;
+}
 
 </style>
 </head>
@@ -111,10 +114,10 @@ nav{
     </div>
 
     <div class="links">
-        <a href="/">Accueil</a>
-        <a href="/solution">Solutions</a>
-        <a href="/assistance">Assistance</a>
-        <a href="/contact">Contact</a>
+        <a href="/" class="<?= ($_SERVER['PATH_INFO'] ?? '') === '/' || ($_SERVER['PATH_INFO'] ?? '') === '' ? 'active' : '' ?>">Accueil</a>
+        <a href="/solutions" class="<?= ($_SERVER['PATH_INFO'] ?? '') === '/solutions' ? 'active' : '' ?>">Solutions</a>
+        <a href="/assistance" class="<?= ($_SERVER['PATH_INFO'] ?? '') === '/assistance' ? 'active' : '' ?>">Assistance</a>
+        <a href="/contact" class="<?= ($_SERVER['PATH_INFO'] ?? '') === '/contact' ? 'active' : '' ?>">Contact</a>
     </div>
 
     <div style="display:flex;align-items:center;gap:15px;">

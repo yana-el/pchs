@@ -133,20 +133,21 @@
 
     <div class="exp-grid">
 
+        
         <div class="exp-card">
             <svg class="exp-icon" viewBox="0 0 76 76" fill="none">
-                <path d="M38 8 L62 16 V36 C62 54 52 64 38 70 C24 64 14 54 14 36 V16 Z" stroke="#0078D4" stroke-width="2.5" stroke-linejoin="round"/>
-                <path d="M22 40 H30 L34 30 L40 48 L44 38 H54" stroke="#0078D4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                <circle cx="58" cy="20" r="3" fill="#0078D4"/>
+                <path d="M16 40 V36 C16 22 26 12 38 12 C50 12 60 22 60 36 V40" stroke="#0078D4" stroke-width="2.5" stroke-linecap="round"/>
+                <rect x="12" y="40" width="10" height="18" rx="4" stroke="#0078D4" stroke-width="2.5"/>
+                <rect x="54" y="40" width="10" height="18" rx="4" stroke="#0078D4" stroke-width="2.5"/>
+                <path d="M22 58 V62 C22 65 25 67 28 67 H34" stroke="#0078D4" stroke-width="2.5" stroke-linecap="round"/>
+                <circle cx="36" cy="67" r="3" stroke="#0078D4" stroke-width="2.5"/>
+                <circle cx="60" cy="22" r="3" fill="#0078D4"/>
             </svg>
-            <h3>Cybersécurité</h3>
-            <p class="exp-row"><strong>Prévention</strong>Des gestes simples pour sensibiliser vos équipes et réduire l'exposition aux risques cyber.</p>
-            <p class="exp-row"><strong>Supervision</strong>Une surveillance continue pour détecter et réagir rapidement face aux incidents.</p>
-            <p class="exp-row"><strong>Remédiation</strong>Investigation, analyse, éradication de la menace et reconstruction du système.</p>
-            <p class="exp-row"><strong>Sécurisation</strong>Une approche résiliente, agile et durable pour protéger votre activité.</p>
-            <p class="exp-tagline c-orange">La sécurité au cœur de vos projets !</p>
+            <h3>Infogérance &amp; Dépannage</h3>
+            <p class="exp-row"><strong>Contrat d'infogérance</strong>Maintenance préventive, suivi régulier et assistance utilisateur prioritaire.</p>
+            <p class="exp-row"><strong>Dépannage ponctuel</strong>Intervention rapide sans engagement, diagnostic et remise en service.</p>
+            <p class="exp-tagline c-orange">Une assistance réactive pour votre continuité.</p>
         </div>
-
         <div class="exp-card">
             <svg class="exp-icon" viewBox="0 0 76 76" fill="none">
                 <rect x="10" y="16" width="56" height="40" rx="4" stroke="#0078D4" stroke-width="2.5"/>
@@ -184,17 +185,16 @@
 
         <div class="exp-card">
             <svg class="exp-icon" viewBox="0 0 76 76" fill="none">
-                <path d="M16 40 V36 C16 22 26 12 38 12 C50 12 60 22 60 36 V40" stroke="#0078D4" stroke-width="2.5" stroke-linecap="round"/>
-                <rect x="12" y="40" width="10" height="18" rx="4" stroke="#0078D4" stroke-width="2.5"/>
-                <rect x="54" y="40" width="10" height="18" rx="4" stroke="#0078D4" stroke-width="2.5"/>
-                <path d="M22 58 V62 C22 65 25 67 28 67 H34" stroke="#0078D4" stroke-width="2.5" stroke-linecap="round"/>
-                <circle cx="36" cy="67" r="3" stroke="#0078D4" stroke-width="2.5"/>
-                <circle cx="60" cy="22" r="3" fill="#0078D4"/>
+                <path d="M38 8 L62 16 V36 C62 54 52 64 38 70 C24 64 14 54 14 36 V16 Z" stroke="#0078D4" stroke-width="2.5" stroke-linejoin="round"/>
+                <path d="M22 40 H30 L34 30 L40 48 L44 38 H54" stroke="#0078D4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                <circle cx="58" cy="20" r="3" fill="#0078D4"/>
             </svg>
-            <h3>Infogérance &amp; Dépannage</h3>
-            <p class="exp-row"><strong>Contrat d'infogérance</strong>Maintenance préventive, suivi régulier et assistance utilisateur prioritaire.</p>
-            <p class="exp-row"><strong>Dépannage ponctuel</strong>Intervention rapide sans engagement, diagnostic et remise en service.</p>
-            <p class="exp-tagline c-orange">Une assistance réactive pour votre continuité.</p>
+            <h3>Cybersécurité</h3>
+            <p class="exp-row"><strong>Prévention</strong>Des gestes simples pour sensibiliser vos équipes et réduire l'exposition aux risques cyber.</p>
+            <p class="exp-row"><strong>Supervision</strong>Une surveillance continue pour détecter et réagir rapidement face aux incidents.</p>
+            <p class="exp-row"><strong>Remédiation</strong>Investigation, analyse, éradication de la menace et reconstruction du système.</p>
+            <p class="exp-row"><strong>Sécurisation</strong>Une approche résiliente, agile et durable pour protéger votre activité.</p>
+            <p class="exp-tagline c-orange">La sécurité au cœur de vos projets !</p>
         </div>
 
     </div>

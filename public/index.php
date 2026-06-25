@@ -11,7 +11,7 @@ if (! isset($_SERVER['PATH_INFO'])) {
 else{
     if($_SERVER['PATH_INFO'] == '/vente-materiel'){
         include CONTROLLER.'vente_materiel.php';
-    }elseif($_SERVER['PATH_INFO'] == '/solution'){
+    }elseif($_SERVER['PATH_INFO'] == '/solutions'){
         include CONTROLLER.'solution.php';
     }elseif($_SERVER['PATH_INFO'] == '/assistance'){
         include CONTROLLER.'assistance.php';
