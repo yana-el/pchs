@@ -9,7 +9,7 @@
             </div>
         </div>
         <div class="hero-image">
-            <img src="/image/blueshield.png" alt="Infrastructure informatique">
+            <img src="/image/blueshield2.png" alt="Infrastructure informatique">
         </div>
     </div>
 </section>

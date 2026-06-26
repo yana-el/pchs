@@ -127,7 +127,6 @@
 <div class="exp-section">
 
     <div class="exp-header">
-        <span>Nos expertises</span>
         <h2>Concentrez-vous sur votre activité,<br><em>on s'occupe du reste.</em></h2>
     </div>
 
